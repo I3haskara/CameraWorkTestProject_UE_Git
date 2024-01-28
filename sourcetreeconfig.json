@@ -1,0 +1,33 @@
+{
+  "$id": "5",
+  "AutoRefresh": true,
+  "AutoRefreshRemotes": true,
+  "CommitTextLinks": null,
+  "DraftCommitMsg": "",
+  "IncomingSavedCount": 0,
+  "LastCheckedRemotes": "2024-01-28T05:51:53.7334875-08:00",
+  "LastUsedView": 0,
+  "LogBranchFilterIndex": 0,
+  "OutgoingSavedCount": 0,
+  "SidebarExpandedItems": [
+    "Branches"
+  ],
+  "SidebarWidth": 210.0,
+  "SubtreeLinks": [],
+  "NeedsLargeFilesPull": false,
+  "RemoteProjectLinks": [
+    {
+      "$id": "6",
+      "BaseUrl": "https://github.com/",
+      "Identifier": "",
+      "RemoteName": "origin",
+      "Type": 0,
+      "Username": "I3haskara",
+      "CloneUrl": "https://github.com/I3haskara/CameraWorkTestProject_UE_Git",
+      "ProjectUrl": "https://github.com/I3haskara/CameraWorkTestProject_UE_Git",
+      "AccountId": "I3haskara@github.com",
+      "AvatarUrl": null,
+      "DisplayName": "origin: https://github.com/"
+    }
+  ]
+}
